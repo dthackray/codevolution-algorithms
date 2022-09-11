@@ -1,5 +1,3 @@
-const n = 0
-
 const fibonacci = (n) => {
     const sequence = [0, 1]
 
