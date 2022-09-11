@@ -20,3 +20,5 @@ console.log(isPrime(15))
 console.log(isPrime(100))
 console.log(isPrime(2416))
 console.log(isPrime(2417))
+
+// Big-O = O(n)
